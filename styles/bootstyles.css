@@ -1,0 +1,26 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #1a60bc;
+    color: white;
+    font-size: 15px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(5, 0, 0);
+  color: white;
+  text-align: center;
+}
+p.ex1 {
+    border: 1px solid rgb(0, 0, 0);
+    outline-style: solid;
+    outline-color: rgb(25, 0, 255);
+    outline-width: thin;
+  }
+
+
+ 

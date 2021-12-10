@@ -1,0 +1,18 @@
+body{
+    background-image: url("../images/PIXNIO-2685575-1840x3264.jpg");
+}
+.p1 {
+    font-family:Arial, Helvetica, sans-serif !important;
+}
+h1 {
+    text-align: center !important;
+  }
+  p.ex1 {
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: rgb(25, 0, 255);
+    outline-width: thin;
+  }
+#mainNav{
+    background-color: #006994 !important;
+}
